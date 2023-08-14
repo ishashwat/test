@@ -1,3 +1,0 @@
-Name: Shashwat
-Skills: HTML, CSS, JS, React.js
-Email: shashwatanand14@gmail.com
